@@ -1,0 +1,17 @@
+.para{
+    background-color: pink;
+    font-size: 25px;
+}
+.para.para2{
+    font-size: 30px;
+
+}
+#num2 {
+    font-size: 35px;
+    color: blue;
+}
+#num4 {
+    font-weight: bold;
+    background-color: greenyellow;
+    font-size: x-large;
+}
